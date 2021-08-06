@@ -1,0 +1,66 @@
+why we are using s for static web hosting?
+
+i wanted to use ec2 for deployee the static web hosting?
+
+why we recommened s for static web hosting?
+
+to provide the extra security on you application, what kind of tools using?
+
+what is mean the authentication?
+
+what is reliability?
+
+what is micro services in aws?
+
+micro services arcitechure?
+
+why we are using iam services?
+
+what is purpose auto-scalling?
+
+kubernetes architechure?
+
+difference between node & pod?
+
+what are components of kubernetes master server?
+
+tell me something about docker?
+
+what is the advantage use the virtual machine?
+
+what is docker container?
+
+what is docker demen?
+
+what is the command use run docker?
+
+command for go inside container?
+
+what is public registory & private registory?
+
+which file you modified to add the options to the docker demen? (add some certificates what file we will use?)
+(configfile need to change)
+much conflict in git?
+what are the command we use to resolve much conflict?
+
+what is the use jenkins?
+
+tell me some jenkins plugins?
+
+difference between continues intigration & continues deployement?
+
+defference between CI & CD?
+
+p1, p2 & p3 how to solve the issue?
+
+
+any kind of documentation you done?
+
+what is the for resolve the issue?
+
+you system is crushing, how to investigate in the logs?
+
+do you know the log levels? (info, debug, error)
+
+
+
